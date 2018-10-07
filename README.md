@@ -10,7 +10,7 @@ This is a python program to get top 8 Expedia's Facebook posts and save them int
 
 
 ## How to run the program:
-- run the command "python expedia_fb_posts_parser"
+- run the command "python expedia_fb_posts_parser.py"
 
 The above command scrapes the expedia fb page and downloads top 8 posts into posts.json file
 
