@@ -5,8 +5,8 @@
 This is a python program to get top 8 Expedia's Facebook posts and save them into JSON file.
 
 ## Prerequisites
--Use Python 3.5.0 version
--Make sure the following modules are available : bs4  , urllib.request. You can install these modules using pip(linux/windows) or easyinstall(windows) 
+- Use Python 3.5.0 version
+- Make sure the following modules are available : bs4  , urllib.request. You can install these modules using pip(linux/windows) or easyinstall(windows) 
 
 
 ## How to run the program:
