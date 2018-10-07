@@ -1,6 +1,6 @@
 # andpraSDE001
 
-##About
+## About
 
 This is a python program to get top 8 Expedia's Facebook posts and save them into JSON file.
 
