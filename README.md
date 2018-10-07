@@ -21,4 +21,4 @@ I have chose to save the following data points:
 - timestamp (when was it actually posted)
 - image (image of actual location)
 
-The above data points gives a description of location and immediate redirection for user to book tickets to the location from expedia page. It also tells Expedia's point of view to a user.
+The above data points gives a description of location and immediate redirection for user to book tickets to the location from expedia page. It also tells Expedia's short description about the post to a user.
